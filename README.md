@@ -9,14 +9,14 @@ This script interface has the following features:
 * Scripts can use their own GUI (GUI files which have been created with QtDesigner (is included) or QtCreator). 
 * Multiple plot windows can be created by scripts (QCustomPlot  developed by Emanuel Eichhammer is used)
 
-**Features**
+## Features
 
-* seriel port (RS232, USB to serial)
+* serial port (RS232, USB to serial)
 * TCP client/server (network proxy support for TCP clients)
 * UDP
 * SPI (Aardvark I2C/SPI)
 * I2C (Aardvark I2C/SPI)
-* CAN (PCAN-USB, only on windows)
+* CAN (PCAN-USB, only on Windows)
 * utf8, hexadecimal, decimal, binary and mixed console
 * html and text log
 * script interface (JavaScript)->run automated test jobs, automatic device configuration scripts...
@@ -24,22 +24,23 @@ This script interface has the following features:
 * plotting data via script and export the generated graphs to file (png, jpg, bmp, pdf and csv)->e.g. to visualize a PID controller or a heater
 * multi user and multi workspace support
 
-**main window**
+## Screenshots
+### Main window
 
 ![main window](https://a.fsdn.com/con/app/proj/scriptcommunicator/screenshots/2023-07-04_09h27_03-08f21d94.png/max/max/1)
 
-**dark mode**
+### Dark mode
 
 ![dark mode](https://a.fsdn.com/con/app/proj/scriptcommunicator/screenshots/2023-07-04_09h27_39-19d7e224.png/max/max/1)
 
-**example script GUI**
+### Example script GUI
 
 ![example script GUI](https://a.fsdn.com/con/app/proj/scriptcommunicator/screenshots/2015-12-02_10h19_22.png)
 
-# Homepage
+## Homepage
 [https://sourceforge.net/projects/scriptcommunicator/](https://sourceforge.net/projects/scriptcommunicator/)
 
-# Downloads (release 06.11)
+## Downloads (release 06.11)
 - [Windows](http://sourceforge.net/projects/scriptcommunicator/files/Windows/ScriptCommunicatorSetup_06_11_windows.exe/download)
 - [Linux 64 bit](http://sourceforge.net/projects/scriptcommunicator/files/Linux_64Bit/ScriptCommunicator_06_11_linux_64_bit.7z/download)
 - [MacOS](http://sourceforge.net/projects/scriptcommunicator/files/MacOS/ScriptCommunicator_06_10_macos.zip/download)
